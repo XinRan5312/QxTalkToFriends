@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commonsdk_201501072105">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/commonsdk_201501072105.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
